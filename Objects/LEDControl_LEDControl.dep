@@ -1,0 +1,19 @@
+Dependencies for Project 'LEDControl', Target 'LEDControl': (DO NOT MODIFY !)
+F (.\src\main.c)(0x592EC444)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_LEDControl-Ie:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-Ie:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (e:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (.\RTE\_LEDControl\RTE_Components.h)(0x592EAFC3)
+I (e:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (e:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (e:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (e:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (e:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x56F9DE5C)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x4F1E2E3C)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\Device\STM32F103C8-I.\RTE\_LEDControl-Ie:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-Ie:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include--pd "__UVISION_VERSION SETA 523" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x592EB62D)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C8-I.\RTE\_LEDControl-Ie:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-Ie:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (e:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (.\RTE\_LEDControl\RTE_Components.h)(0x592EAFC3)
+I (e:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (e:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (e:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (e:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (e:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
